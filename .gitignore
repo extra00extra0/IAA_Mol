@@ -1,0 +1,7 @@
+# large dataset archives are not distributed with the repository
+DrugOOD_data_pt.zip
+data(DrugOOD).zip
+data(GOODHIV).zip
+dataset(GOODHIV).zip
+
+.DS_Store
